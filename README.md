@@ -6,11 +6,15 @@ Criada com HTML e CSS.
 
 **Modo Desktop**
 
+**_Sobre_**
+
 <P align="center">
-<img src="./img/img-readme/desktop.png">
+<img src="./images/img-readme/Sobre.png">
 </p>
 <br/>
 
+**_Contato_**
+
 <P align="center">
-<img src="./img/img-readme/desktop.png">
+<img src="./images/img-readme/contato.png">
 </p>
